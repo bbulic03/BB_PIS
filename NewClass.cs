@@ -8,9 +8,5 @@ namespace ConsoleApp2
 {
     internal class NewClass
     {
-        private static void Zbrajanje()
-        {
-            
-        }
     }
 }
